@@ -6,11 +6,11 @@ funniest one-line warning label for a time machine, 120 characters or fewer.
 
 ## The label
 
-> WARNING: Do not meet yourself. If you do, neither of you is allowed to drive home.
+> WARNING: Never meet yourself. If you do, neither of you may drive home — you both just failed the test.
 
-82 characters. A deadpan safety notice that turns the classic time-travel
+103 characters. A deadpan safety notice that turns the classic time-travel
 hazard — meeting your own duplicate self — into the joke, saving the
-surprise ("neither of you is allowed to drive home") for the last few words.
+surprise ("you both just failed the test") for the last few words.
 
 ## How it works
 
