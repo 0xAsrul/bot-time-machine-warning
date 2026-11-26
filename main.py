@@ -1,10 +1,10 @@
 """Funniest Time Machine Warning Label — make.fun entry.
 
-Writes a single deadpan warning label (120 characters or fewer) to
+Writes one deadpan warning label (120 characters or fewer) to
 /output/entry.txt. Deterministic: the same line on every run.
 """
 
-LINE = ("WARNING: Never meet yourself. If you do, neither of you may drive home — you both just failed the test.")
+LINE = "WARNING: If you meet yourself, do not wave back. Your past self read this label first and waved anyway."
 
 OUTPUT_PATH = "/output/entry.txt"
 
